@@ -5,4 +5,4 @@ Nombre: Pablo Gonzalez Arroyave
 C.C: 1.001.418.116
 Clase: Programacion para la web II
 Poner en la carpeta: C:/XAMPP/htdocs/ y ejecutar el siguiente link en el buscador de su preferencia: http://localhost/MisProyectos/citasMedicas/
-No es funcional con la base de datos aunque en el codigo se ven los inicios de los Modelados
+El archivo Crud.sql.zip es la base de datos y debe ser importada en phpmyadmin para que el programa funcione bien
